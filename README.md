@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Computer Science.
 - 💞️ I’m looking to collaborate on anything.
 
-https://patrick-kicullen.github.io/
+https://patrick-kilcullen.github.io/
 
 <!---
 Patrick-Kicullen/Patrick-Kicullen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
